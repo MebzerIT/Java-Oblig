@@ -1,2 +1,3 @@
 # Java-Oblig
-dyr registrering 
+Applikasjonen skal bruke data fra databasen Hobbyhuset.
+Applikasjonen bruker dialogvinduer for forskjellige funksjonener.
